@@ -1,1 +1,1 @@
-# Estudos-SQL
+# Meus scrips de aprendizado SQL
